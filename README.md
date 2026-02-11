@@ -73,7 +73,7 @@
     ```
     终端显示 `Uvicorn running on http://0.0.0.0:8000` 即代表启动成功。
 
-4. 在.env中输入你的deepseek API KEY（便宜得很 直接去deepeek的API界面暴点金币就行）
+4. **在.env中输入你的deepseek API KEY（便宜得很 直接去deepeek的API界面暴点金币就行）**
 
 ---
 
