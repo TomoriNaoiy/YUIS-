@@ -45,11 +45,9 @@
 
 ## 🚀 快速开始 (Quick Start)
 
-### 方式一：Docker 一键部署 (推荐)
 
-如果你安装了 Docker，这是最快的方式。这里不多赘述
 
-### 方式二：本地开发运行 (使用 uv)
+### 本地开发运行 (使用 uv)
 
 推荐使用 `uv` 进行极速依赖安装。
 
@@ -74,6 +72,8 @@
     python main.py
     ```
     终端显示 `Uvicorn running on http://0.0.0.0:8000` 即代表启动成功。
+
+4. 在.env中输入你的deepseek API KEY（便宜得很 直接去deepeek的API界面暴点金币就行）
 
 ---
 
